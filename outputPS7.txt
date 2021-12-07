@@ -13,12 +13,20 @@ Shehza
 
 List of courses:
 Software Engineering
-Distributed Computing
-Software Architecture
-Data Storage Technologies
-Compiler Design
-Data Structures
 Cloud Computing
+Data Structures
 Software Testing
+Distributed Computing
+Compiler Design
+Software Architecture
 Algorithm Design
+Data Storage Technologies
+-----------------------------------------------------------------
+
+--------Function displayCandidates --------
+
+List of Candidates who can handle Data Structures:
+
+Manasa
+Venkat
 -----------------------------------------------------------------
