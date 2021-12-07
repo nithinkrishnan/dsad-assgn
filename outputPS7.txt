@@ -1,6 +1,7 @@
 --------Function showAll--------
 
 Total no. of candidates:6
+Total no. of courses:9
 
 List of candidates:
 Manasa
@@ -9,4 +10,15 @@ Paul
 Harry
 Mary
 Shehza
+
+List of courses:
+Software Engineering
+Distributed Computing
+Software Architecture
+Data Storage Technologies
+Compiler Design
+Data Structures
+Cloud Computing
+Software Testing
+Algorithm Design
 -----------------------------------------------------------------
