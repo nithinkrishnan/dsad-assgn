@@ -1,0 +1,12 @@
+--------Function showAll--------
+
+Total no. of candidates:6
+
+List of candidates:
+Manasa
+Venkat
+Paul
+Harry
+Mary
+Shehza
+-----------------------------------------------------------------
