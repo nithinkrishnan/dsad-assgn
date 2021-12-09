@@ -12,15 +12,15 @@ Mary
 Shehza
 
 List of courses:
-Software Engineering
-Cloud Computing
-Data Structures
-Software Testing
 Distributed Computing
-Compiler Design
-Software Architecture
-Algorithm Design
 Data Storage Technologies
+Cloud Computing
+Compiler Design
+Data Structures
+Algorithm Design
+Software Testing
+Software Architecture
+Software Engineering
 -----------------------------------------------------------------
 
 --------Function displayCandidates --------
@@ -29,4 +29,26 @@ List of Candidates who can handle Data Structures:
 
 Manasa
 Venkat
+-----------------------------------------------------------------
+
+-------- Function displayHireList --------
+
+No of candidates required to cover most of the courses: 3
+
+Manasa / Data Structures / Compiler Design / Software Engineering / Data Structures
+Venkat / Data Structures / Software Architecture / Cloud Computing / Distributed Computing
+Paul / Algorithm Design / Software Testing/ Data Storage Technologies
+
+-----------------------------------------------------------------
+
+--------Function findCourseInstructors --------
+
+Part A: Data Structures
+Part B: Compiler Design
+
+Course Instructors:
+
+Part A: Nit,Shehza
+Part B: Shehza
+
 -----------------------------------------------------------------
