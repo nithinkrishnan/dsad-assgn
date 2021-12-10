@@ -1,9 +1,11 @@
 showMinList
-searchCourse: Data Strcutures
+searchCourse: Data Structures
 searchCourse: Algorithm Design
 Part A: Data Structures
 Part B: Algorithm Design
 searchCourse: Distributed Computing
-Part A: Software Engineering
 Part B: Software Architecture
-Part A: Software Testing
+Part A: Software Engineering
+searchCourse: English
+Part A: Data Structures
+searchCourse: Software Architecture
