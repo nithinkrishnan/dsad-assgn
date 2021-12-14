@@ -6,6 +6,3 @@ Part B: Algorithm Design
 searchCourse: Distributed Computing
 Part B: Software Architecture
 Part A: Software Engineering
-searchCourse: English
-Part A: Data Structures
-searchCourse: Software Architecture

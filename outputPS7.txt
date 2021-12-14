@@ -1,6 +1,6 @@
 --------Function showAll--------
 
-Total no. of candidates: 6
+Total no. of candidates: 5
 Total no. of courses: 9
 
 List of candidates:
@@ -10,19 +10,18 @@ Venkat
 Paul
 Harry
 Mary
-Shehza
 
 List of courses:
 
-Software Engineering
 Distributed Computing
+Compiler Design
+Software Engineering
 Software Testing
 Software Architecture
-Data Storage Technologies
-Algorithm Design
 Data Structures
 Cloud Computing
-Compiler Design
+Data Storage Technologies
+Algorithm Design
 -----------------------------------------------------------------
 
 --------Function displayHireList--------
@@ -54,10 +53,11 @@ Paul
 Part A: Data Structures
 Part B: Algorithm Design
 
+
 Course Instructors:
 
 Part A: Manasa,Venkat
-Part B: Paul
+Part B: 
 -----------------------------------------------------------------
 
 --------Function displayCandidates--------
@@ -70,11 +70,11 @@ Harry
 
 --------Function findCourseInstructors--------
 
-Part A: Software Engineering
-Part B: Software Architecture
+Part A: Software Architecture
+Part B: Software Engineering
 
 Course Instructors:
 
-Part A: Manasa,Mary,Shehza
-Part B: Venkat,Mary,Shehza
+Part A: Venkat,Mary
+Part B: Manasa,Mary
 -----------------------------------------------------------------
