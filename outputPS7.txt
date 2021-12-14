@@ -13,15 +13,15 @@ Mary
 
 List of courses:
 
-Distributed Computing
-Compiler Design
-Software Engineering
-Software Testing
 Software Architecture
-Data Structures
-Cloud Computing
-Data Storage Technologies
+Software Testing
+Software Engineering
 Algorithm Design
+Data Storage Technologies
+Cloud Computing
+Distributed Computing
+Data Structures
+Compiler Design
 -----------------------------------------------------------------
 
 --------Function displayHireList--------
@@ -53,11 +53,10 @@ Paul
 Part A: Data Structures
 Part B: Algorithm Design
 
-
 Course Instructors:
 
 Part A: Manasa,Venkat
-Part B: 
+Part B: Paul
 -----------------------------------------------------------------
 
 --------Function displayCandidates--------
@@ -70,11 +69,11 @@ Harry
 
 --------Function findCourseInstructors--------
 
-Part A: Software Architecture
-Part B: Software Engineering
+Part A: Software Engineering
+Part B: Software Architecture
 
 Course Instructors:
 
-Part A: Venkat,Mary
-Part B: Manasa,Mary
+Part A: Manasa,Mary
+Part B: Venkat,Mary
 -----------------------------------------------------------------
