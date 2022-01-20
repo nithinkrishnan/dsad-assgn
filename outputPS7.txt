@@ -13,32 +13,30 @@ Mary
 
 List of courses:
 
-Software Architecture
-Software Testing
-Software Engineering
-Algorithm Design
-Data Storage Technologies
-Cloud Computing
 Distributed Computing
-Data Structures
 Compiler Design
+Software Engineering
+Software Testing
+Software Architecture
+Data Structures
+Cloud Computing
+Data Storage Technologies
+Algorithm Design
 -----------------------------------------------------------------
 
 --------Function displayHireList--------
 
-No of candidates required to cover most of the courses: 3
+No. of candidates required to cover most of the courses: 3
 
-Manasa / Data Structures / Compiler Design / Software Engineering / Data Structures
+Manasa / Data Structures / Compiler Design / Software Engineering
 Venkat / Data Structures / Software Architecture / Cloud Computing / Distributed Computing
 Paul / Algorithm Design / Software Testing/ Data Storage Technologies
 -----------------------------------------------------------------
 
 --------Function displayCandidates--------
 
-List of Candidates who can handle Data Structures:
+No candidate can handle Data Strcutures
 
-Manasa
-Venkat
 -----------------------------------------------------------------
 
 --------Function displayCandidates--------
@@ -57,23 +55,4 @@ Course Instructors:
 
 Part A: Manasa,Venkat
 Part B: Paul
------------------------------------------------------------------
-
---------Function displayCandidates--------
-
-List of Candidates who can handle Distributed Computing:
-
-Venkat
-Harry
------------------------------------------------------------------
-
---------Function findCourseInstructors--------
-
-Part A: Software Engineering
-Part B: Software Architecture
-
-Course Instructors:
-
-Part A: Manasa,Mary
-Part B: Venkat,Mary
 -----------------------------------------------------------------

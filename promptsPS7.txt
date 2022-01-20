@@ -1,10 +1,5 @@
 showMinList
-searchCourse: Data Structures
+searchCourse: Data Strcutures
 searchCourse: Algorithm Design
 Part A: Data Structures
 Part B: Algorithm Design
-searchCourse: Distributed Computing
-Part B: Software Architecture
-Part A: Software Engineering
-searchCourse: English
-Part B: Cloud Computing
