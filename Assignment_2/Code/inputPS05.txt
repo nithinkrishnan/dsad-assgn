@@ -1,3 +1,4 @@
-Chocolate: Nestle / Amul / Parle / M&M / Mars / Campco
+Chocolate: Nestle. / Amul  / Parle / M&M / Mars / Campco
 Number: 123/ 231/ 89/ 156/ 99/ 278
 Order chocolate by number: High to Low
+Order chocolate by number: Low to High
