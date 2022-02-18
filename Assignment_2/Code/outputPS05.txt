@@ -1,8 +1,12 @@
 Iterative Solution:
-Chocolate: Parle / Mars / Nestle / M&M / Amul / Campco
-Number: 89 / 99 / 123 / 156 / 231 / 278
+Chocolate:Parle / Mars / Nestle / M&M / Amul / Campco
+Number:89 / 99 / 123 / 156 / 231 / 278
 
 Iterative Solution:
-Chocolate: Campco / Amul / M&M / Nestle / Mars / Parle
-Number: 278 / 231 / 156 / 123 / 99 / 89
+Chocolate:Campco / Amul / M&M / Nestle / Mars / Parle
+Number:278 / 231 / 156 / 123 / 99 / 89
+
+Iterative Solution:
+Chocolate:Parle / Mars / Nestle / M&M / Amul / Campco
+Number:89 / 99 / 123 / 156 / 231 / 278
 
