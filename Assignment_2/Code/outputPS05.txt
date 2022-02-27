@@ -1,8 +1,0 @@
-Divide & Conquer:
-Chocolate: Campco / Amul / M&M / Nestle / Mars / Parle / Cadbury
-Number: 278 / 231 / 156 / 123 / 99 / 89 / 60
-
-Iterative Solution:
-Chocolate: Campco / Amul / M&M / Nestle / Mars / Parle / Cadbury
-Number: 278 / 231 / 156 / 123 / 99 / 89 / 60
-
